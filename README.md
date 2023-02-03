@@ -38,6 +38,6 @@ The above choices can be mixed and matched to be customized for the specific pre
 
 <div align = center>
 
-[<img src="https://stanfordmlgroup.github.io/projects/ngboost/img/blocks.png" width="500">](https://stanfordmlgroup.github.io/projects/ngboost/)
+[<img src="https://stanfordmlgroup.github.io/projects/ngboost/img/blocks.png" width="1000">](https://stanfordmlgroup.github.io/projects/ngboost/)
 
 </div>

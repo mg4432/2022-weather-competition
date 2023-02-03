@@ -23,8 +23,23 @@
   
 </div>
 
+### model description
+**Base Learner**
+
+The most common choice is Decision Trees, which tend to work well on structured inputs.
+
+**Probability Distribution**
+
+The distribution needs to be compatible with the output type. For e.g. Normal distribution for real valued outputs, Bernoulli for binary outputs.
+
+**Scoring rule**
+
+Maximum Likelihood Estimation is an obvious choice. More robust rules such as Continuous Ranked Probability Score are also suitable.
+
+The above choices can be mixed and matched to be customized for the specific prediction problem at hand.
+
 <div align = center>
 
-[<img src="https://stanfordmlgroup.github.io/projects/ngboost/img/toy_single.png" width="500">](https://stanfordmlgroup.github.io/projects/ngboost/)
+[<img src="https://stanfordmlgroup.github.io/projects/ngboost/img/blocks.png" width="500">](https://stanfordmlgroup.github.io/projects/ngboost/)
 
 </div>

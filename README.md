@@ -1,5 +1,11 @@
 # 2022 날씨 빅데이터 콘테스트 
-![image](https://user-images.githubusercontent.com/73567364/183577166-eedef0dc-822e-4ed1-94be-5c240c958cc9.png)
+
+<div align = center>
+
+[<img src="https://user-images.githubusercontent.com/73567364/183577166-eedef0dc-822e-4ed1-94be-5c240c958cc9.png" width="700">](https://bd.kma.go.kr/contest/main.do)
+
+</div>
+  
 ## 1. 대회 설명
 **2차 대회 2과제 : 기상에 따른 혈관질환 발생 예측 모델 개발**
 - 기상청에서 제공하는 기상 데이터와 예보 데이터를 바탕으로 **일별, 지역별 혈관 질환으로 인한 입원 빈도**를 예측하는 과제입니다. 

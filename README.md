@@ -8,11 +8,9 @@
 ## 2. 순위
 최종 순위 : 입상 
 
-모델 정확도 순위 : 4/32 (측정 지표 : RMSE)
+모델 정확도 순위 : 4/32 (측정 지표 : RMSE) | 모델 성능 (Validation set) : 1.2085
 
-모델 성능 (Validation set) : 1.2085
-
-![image](https://user-images.githubusercontent.com/73567364/216523409-ae17d3fe-3ad4-42e3-a557-770ef7ef6ea0.png)
+![image](https://user-images.githubusercontent.com/73567364/216526818-1f1bddc0-eeb8-4e81-9689-167f2e3647d9.png)
 
 ## 3. 사용 모델 : NgBoost
 

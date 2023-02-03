@@ -8,7 +8,8 @@
 ## 2. 순위
 최종 순위 : 입상 
 
-모델 정확도 순위 : 4/32 (측정 지표 : RMSE) | 모델 성능 (Validation set) : 1.2085
+모델 정확도 순위 : 4/32 (측정 지표 : RMSE) 
+- RMSE (Validation set) : 1.2085
 
 ![image](https://user-images.githubusercontent.com/73567364/216526818-1f1bddc0-eeb8-4e81-9689-167f2e3647d9.png)
 
@@ -35,6 +36,7 @@ The distribution needs to be compatible with the output type. For e.g. Normal di
 Maximum Likelihood Estimation is an obvious choice. More robust rules such as Continuous Ranked Probability Score are also suitable.
 
 The above choices can be mixed and matched to be customized for the specific prediction problem at hand.
+
 
 <div align = center>
 

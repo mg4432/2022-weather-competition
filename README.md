@@ -15,11 +15,9 @@
 ![image](https://user-images.githubusercontent.com/73567364/216523409-ae17d3fe-3ad4-42e3-a557-770ef7ef6ea0.png)
 
 ## 3. 사용 모델
-NgBoost (https://stanfordmlgroup.github.io/projects/ngboost/)
+NgBoost
 
-[![stanfordmlgroup](https://stanfordmlgroup.github.io/projects/ngboost/img/toy_single.png)](https://stanfordmlgroup.github.io/projects/ngboost/)
-[![stanfordmlgroup](https://stanfordmlgroup.github.io/projects/ngboost/img/toy_single.png)](https://stanfordmlgroup.github.io/projects/ngboost/)
-
-<div align = 'center'>
+<div align = center>
 [<img src="https://stanfordmlgroup.github.io/projects/ngboost/img/toy_single.png"  width="500">](https://stanfordmlgroup.github.io/projects/ngboost/)
+[<img src="https://user-images.githubusercontent.com/73567364/216526072-0c447ee0-adb2-40fc-8152-b72c1f003b1c.png"  width="500">](https://stanfordmlgroup.github.io/projects/ngboost/)
 </div>

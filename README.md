@@ -19,4 +19,7 @@ NgBoost (https://stanfordmlgroup.github.io/projects/ngboost/)
 
 [![stanfordmlgroup](https://stanfordmlgroup.github.io/projects/ngboost/img/toy_single.png)](https://stanfordmlgroup.github.io/projects/ngboost/)
 [![stanfordmlgroup](https://stanfordmlgroup.github.io/projects/ngboost/img/toy_single.png)](https://stanfordmlgroup.github.io/projects/ngboost/)
-[<img src="https://user-images.githubusercontent.com/65345381/104730528-8e9b4100-577d-11eb-9dd0-3625a7e84885.png"  width="150">](https://stanfordmlgroup.github.io/projects/ngboost/)
+
+<div align = 'center'>
+[<img src="https://stanfordmlgroup.github.io/projects/ngboost/img/toy_single.png"  width="500">](https://stanfordmlgroup.github.io/projects/ngboost/)
+</div>

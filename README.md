@@ -12,9 +12,7 @@
 - 최종공모안 파일에 EDA, 모델링, 활용 방안에 대한 설명이 있습니다. 
 
 ## 2. 순위
-최종 순위 : 입상 
-
-모델 정확도 순위 : 4/32 (측정 지표 : RMSE) 
+최종 순위 : 입선 (4위)
 - RMSE (Validation set) : 1.2085
 
 ![image](https://user-images.githubusercontent.com/73567364/216526818-1f1bddc0-eeb8-4e81-9689-167f2e3647d9.png)
